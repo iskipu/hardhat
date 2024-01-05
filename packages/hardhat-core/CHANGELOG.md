@@ -1,5 +1,11 @@
 # hardhat
 
+## 2.19.5
+
+### Patch Changes
+
+- 8f677ea9f: Added a fix to prevent submitting transactions with 0 priority fee (thanks @itsdevbear!)
+
 ## 2.19.4
 
 ### Patch Changes
